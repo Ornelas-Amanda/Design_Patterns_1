@@ -1,0 +1,15 @@
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\bin\Debug\net6.0\Desafio_2.exe
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\bin\Debug\net6.0\Desafio_2.deps.json
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\bin\Debug\net6.0\Desafio_2.runtimeconfig.json
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\bin\Debug\net6.0\Desafio_2.dll
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\bin\Debug\net6.0\Desafio_2.pdb
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.csproj.AssemblyReference.cache
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.AssemblyInfoInputs.cache
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.AssemblyInfo.cs
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.dll
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\refint\Desafio_2.dll
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.pdb
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\Desafio_2.genruntimeconfig.cache
+C:\Users\amanda.ornelas\OneDrive - JM Confitec Sistemas de Computação LTDA\Documentos\Alura\Padrões de projeto 1\Modulo 4 - Desafio 2\Desafio_2\Desafio_2\obj\Debug\net6.0\ref\Desafio_2.dll
